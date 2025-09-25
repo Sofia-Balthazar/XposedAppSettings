@@ -5,7 +5,7 @@ plugins {
 android {
     namespace = "ru.bluecat.android.xposed.mods.appsettings"
     compileSdk = 33
-    buildToolsVersion = "33.0.2"
+    buildToolsVersion = "33.0.3"
     defaultConfig {
         applicationId = "ru.bluecat.android.xposed.mods.appsettings"
         minSdk = 27
